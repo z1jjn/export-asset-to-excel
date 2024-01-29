@@ -1,0 +1,1 @@
+Use this to generate an Excel workbook from your object schema in Jira Cloud.
